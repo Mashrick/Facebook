@@ -9,7 +9,7 @@ body{
 /*background*/
 .header{
 	margin: 0;
-	width: 1730px;
+	width: 100%;
 	height: 82.983px;
 	/*border: 2px solid red;*/
 	background: #3b5998;
@@ -86,7 +86,7 @@ body{
 
 
 .content{
-	width: 1730px;
+	width: 100%;
 	height: 880px;
 	background: #e4e7f1;
 }
